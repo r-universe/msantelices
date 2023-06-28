@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "json64"]
 	path = json64
 	url = https://github.com/msantelices/json64
-	shallow = true
-	registered = true
 [submodule "rutifier"]
 	path = rutifier
 	url = https://github.com/msantelices/rutifier
-	shallow = true
-	registered = true
